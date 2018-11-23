@@ -1,0 +1,3 @@
+C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/CMakeFiles/rebuild_cache.dir
+C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/CMakeFiles/googletest.dir
+C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/CMakeFiles/edit_cache.dir

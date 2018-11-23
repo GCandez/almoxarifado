@@ -1,0 +1,55 @@
+[
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  -I../almoxarifado.core/include  -g   -o almoxarifado.core\\CMakeFiles\\almoxarifado.core.dir\\LinkedList.c.obj   -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\almoxarifado.core\\LinkedList.c",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/almoxarifado.core/LinkedList.c"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googlemock/include -Igoogletest/googletest-src/googlemock -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\__\\googletest\\src\\gtest-all.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googlemock/include -Igoogletest/googletest-src/googlemock -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googlemock/include -Igoogletest/googletest-src/googlemock -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googlemock/src/gmock_main.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googlemock/include -Igoogletest/googletest-src/googlemock -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\__\\googletest\\src\\gtest-all.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googlemock/include -Igoogletest/googletest-src/googlemock -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\gtest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googletest/src/gtest_main.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googletest/include -Igoogletest/googletest-src/googletest  -g    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest-build\\googlemock\\gtest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\build\\googletest\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/build/googletest/googletest-src/googletest/src/gtest-all.cc"
+},
+
+{
+  "directory": "c:/Users/Gabriel/Desktop/Repositories/almoxarifado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -Igoogletest/googletest-src/googletest/include -I../almoxarifado.core/include  -g   -o almoxarifado.core.tests\\CMakeFiles\\almoxarifado.core.tests.dir\\LinkedListTests.cpp.obj -c C:\\Users\\Gabriel\\Desktop\\Repositories\\almoxarifado\\almoxarifado.core.tests\\LinkedListTests.cpp",
+  "file": "C:/Users/Gabriel/Desktop/Repositories/almoxarifado/almoxarifado.core.tests/LinkedListTests.cpp"
+}
+]

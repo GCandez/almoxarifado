@@ -1,9 +1,0 @@
-{
-    "files.exclude": {
-        "build": true
-    },
-    "files.associations": {
-        "linkedlist.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "Disabled"
-}
