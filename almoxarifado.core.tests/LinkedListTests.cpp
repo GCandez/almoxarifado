@@ -104,7 +104,6 @@ TEST(LinkedListTests, ListPrepend_ShouldIncreaseListLengthProperty)
 
 TEST(LinkedListTests, ListPrepend_ShouldProperlyChangeNodesLinks)
 {
-    ASSERT_TRUE(false);
     List* list = List_New(NULL);
 
     Node* nodes[3];
